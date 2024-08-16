@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkFlowApp1", "WorkFlowApp1\WorkFlowApp1.csproj", "{B472E487-D543-4E37-8CFC-1C718A1E159F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B472E487-D543-4E37-8CFC-1C718A1E159F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B472E487-D543-4E37-8CFC-1C718A1E159F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B472E487-D543-4E37-8CFC-1C718A1E159F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B472E487-D543-4E37-8CFC-1C718A1E159F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17CB0F5E-97C3-4A33-B459-E141FD82C040}
+	EndGlobalSection
+EndGlobal
