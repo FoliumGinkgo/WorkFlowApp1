@@ -70,7 +70,7 @@
                 Margin="0,0,10,0"
                 Click="Button_Click"
                 Content="打开" />
-            <ComboBox Style="{StaticResource ComboBoxBaseStyle}" />
+            
             <AdornerDecorator>
                 <!--  The control that will have adorners  -->
                 <TextBox
